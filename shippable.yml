@@ -22,4 +22,7 @@ build:
     - phantomjs --version
     - bower --version
     - npm --version    
-   
+    - java --version
+    - node -version
+    - ruby -v
+    - python --version
