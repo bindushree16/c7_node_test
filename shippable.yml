@@ -23,6 +23,6 @@ build:
     - bower --version
     - npm --version    
     - java --version
-    - node -version
+    - node -v
     - ruby -v
     - python --version
